@@ -1,0 +1,10 @@
+table{
+    background-color: lightcyan;
+
+}
+body{
+    background-image: url("./images/background.png");
+}
+td {
+    border: 1px solid black;
+}

@@ -1,0 +1,17 @@
+	div.right {
+		width: 30%;
+		float: right;
+	}
+	div.left {
+		width: 30%;
+		float: left;
+	}
+	.cent{
+		display: block;
+		margin: auto;
+	}
+	.bad{
+		text-decoration: line-through;
+		color: red;
+		font-weight:bold;
+	}
